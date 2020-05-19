@@ -1,0 +1,17 @@
+.card{
+  margin: 50px;
+  -webkit-box-shadow: 6px 22px 88px -25px rgba(0,0,0,0.75);
+  -moz-box-shadow: 6px 22px 88px -25px rgba(0,0,0,0.75);
+  box-shadow: 6px 22px 88px -25px rgba(0,0,0,0.75);
+
+}
+.heart{
+  color: grey;
+  position: absolute;
+  top: auto;
+  padding-top: 5px;
+  margin-left: 20px;
+}
+.heart:hover{
+  color: red;
+}

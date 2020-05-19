@@ -1,0 +1,23 @@
+.logo{
+  width: 150px;
+  height: 59px;
+}
+.header{
+  -webkit-box-shadow: 6px 22px 88px -25px rgba(0,0,0,0.75);
+  -moz-box-shadow: 6px 22px 88px -25px rgba(0,0,0,0.75);
+  box-shadow: 6px 22px 88px -25px rgba(0,0,0,0.75);
+}
+.hlv{
+  width: 200px;
+  height: 50px;
+  background-color: black;
+}
+.nav-item{
+  list-style-type:none;
+}
+.fa{
+  padding: 10px;
+}
+.form-inline{
+  background-color: white;
+}
